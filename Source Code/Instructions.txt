@@ -1,0 +1,4 @@
+We used Eclipse in order to run the .java file.
+
+The .java file for our project is located in:
+JacobiMethod > src > JacobiMethod > TrafficFlowSimulation.java
